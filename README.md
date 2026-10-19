@@ -7,8 +7,8 @@ I founded **Intermovil TEC**, where I build and deliver software end to end:
 
 - **Education platforms** for public higher-education institutes in Peru: academic management,
   institutional web portals, and a regional virtual library.
-- **Continuidad del Cuidado**, a caregiver scheduling and replacement-matching platform for elderly
-  home-care agencies in the EU (closed beta).
+- **[Releya](https://releya.eu)**, a home-care coordination SaaS for the EU: shift scheduling,
+  absences with automatic replacement, voice reports and management metrics, in 8 languages.
 
 I'm open to **hybrid roles and relocation to Germany or the Netherlands**.
 
@@ -16,7 +16,7 @@ I'm open to **hybrid roles and relocation to Germany or the Netherlands**.
 
 | Project | What it shows |
 |---|---|
-| [**caregiver-matching-engine**](https://github.com/AntonioOrojas/caregiver-matching-engine) | The replacement-matching algorithm behind my home-care product: hard filters plus a weighted score (OSRM street distance, continuity of care, workload, reliability). Django REST, React + TypeScript, tests, CI and Docker. |
+| [**caregiver-matching-engine**](https://github.com/AntonioOrojas/caregiver-matching-engine) | The replacement-matching algorithm behind [Releya](https://releya.eu): hard filters plus a weighted score (OSRM street distance, continuity of care, workload, reliability). Django REST, React + TypeScript, tests, CI and Docker. |
 | [**vmware-proxmox-migration-lab**](https://github.com/AntonioOrojas/vmware-proxmox-migration-lab) | A nested VMware ESXi 8 lab on Proxmox VE with documented VMware → Proxmox migrations of Windows and Linux VMs. Bash and PowerShell automation, docs in French and Spanish. |
 
 ### Tech I work with

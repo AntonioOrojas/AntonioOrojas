@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm José Antonio 👋
 
-<!--
-**AntonioOrojas/AntonioOrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer** from Peru with 8+ years building web platforms for public institutions
+and private companies, and an earlier career in IT infrastructure and networks.
 
-Here are some ideas to get you started:
+I founded **Intermovil TEC**, where I build and deliver software end to end:
 
-- 🔭 I’m currently working on interMOVIL
-- 🌱 I’m currently learning Python..
-- 👯 I’m looking to collaborate on Grupo R&S..
-- 🤔 I’m looking for help with JS
-- 💬 Ask me about programming
-- 📫 How to reach me: Antonio
-- 😄 Pronouns: He
-- ⚡ Fun fact: Fun
--->
+- **Education platforms** for public higher-education institutes in Peru: academic management,
+  institutional web portals, and a regional virtual library.
+- **Continuidad del Cuidado**, a caregiver scheduling and replacement-matching platform for elderly
+  home-care agencies in the EU (closed beta).
+
+I'm open to **hybrid roles and relocation to Germany or the Netherlands**.
+
+### Featured projects
+
+| Project | What it shows |
+|---|---|
+| [**caregiver-matching-engine**](https://github.com/AntonioOrojas/caregiver-matching-engine) | The replacement-matching algorithm behind my home-care product: hard filters plus a weighted score (OSRM street distance, continuity of care, workload, reliability). Django REST, React + TypeScript, tests, CI and Docker. |
+| [**vmware-proxmox-migration-lab**](https://github.com/AntonioOrojas/vmware-proxmox-migration-lab) | A nested VMware ESXi 8 lab on Proxmox VE with documented VMware → Proxmox migrations of Windows and Linux VMs. Bash and PowerShell automation, docs in French and Spanish. |
+
+### Tech I work with
+
+**Languages:** TypeScript · JavaScript · Python · Java · PHP
+**Frontend:** React 18 · Vite · Angular · i18next · Leaflet
+**Backend:** Django / Django REST Framework · Node.js · Spring Boot
+**Data:** PostgreSQL · MySQL · Oracle · SQL Server · MongoDB
+**Cloud & infra:** AWS · Docker · Kubernetes · Proxmox VE · VMware · Linux · networking
+
+### Currently
+
+- Completing the Google Cybersecurity Professional Certificate
+- Growing into applied AI and improving my English
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-o-5b621b29) · Spanish (native) · English (B1)
